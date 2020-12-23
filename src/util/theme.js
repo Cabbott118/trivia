@@ -9,5 +9,10 @@ export default {
       contrastText: '#fff',
     },
   },
-  spreadThis: {},
+  spreadThis: {
+    button: {
+      textTransform: 'none',
+      margin: '10px',
+    },
+  },
 };
